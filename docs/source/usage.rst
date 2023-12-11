@@ -38,6 +38,6 @@ Here's an example
 
 Here's an example of RTD
 
-To use a funtion ``a_func()``
+To use a function ``a_func()``
 
-A java function :java:func:`bla_bla()`
+A python function :py:func:`bla_bla()`
